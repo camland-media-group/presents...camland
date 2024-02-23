@@ -1,8 +1,9 @@
 {
-    "app_id": "camland-kopsq",
+    "app_id": "data-fjpwq",
     "config_version": 20210101,
-    "name": "CAMLAND",
+    "name": "data",
     "location": "US-VA",
-    "provider_region": "aws-us-east-2",
-    "deployment_model": "LOCAL"
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "GLOBAL",
+    "environment": "development"
 }
